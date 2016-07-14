@@ -1,0 +1,14 @@
+color:
+  brandColors:
+    - '#FEFEFE'
+    - '#000000'
+    - '#FBFBFB'
+    - '#060606'
+    - '#F4F4F4'
+  brandStrength: 0.560811
+  lightness: 0.209827
+  rhythmicContrast: 0.891478
+  saturation: 0.219427
+layout_spectrum: 0.269426
+name: testyone
+typography_spectrum: 0.277872
