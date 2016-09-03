@@ -1,3 +1,4 @@
+typography_spectrum: 0.277872
 color:
   brandColors:
     - '#FEFEFE'
@@ -11,4 +12,4 @@ color:
   saturation: 0.219427
 layout_spectrum: 0.269426
 name: testyone
-typography_spectrum: 0.277872
+description: COFFEELERIA
